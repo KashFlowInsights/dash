@@ -4,7 +4,7 @@
 # In[2]:
 
 
-get_ipython().system('pip install streamlit')
+
 import streamlit as st
 import pandas as pd
 import numpy as np
